@@ -1,4 +1,4 @@
-# Create the query for correction
+# Create the Queries for Correction
 
 
 ### Description
